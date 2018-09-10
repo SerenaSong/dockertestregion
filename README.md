@@ -1,2 +1,0 @@
-# dockertestregion
-无用
